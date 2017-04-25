@@ -1,0 +1,23 @@
+{
+  "name": "ts-dict",
+  "version": "0.1.0",
+  "description": "A core TypeScript type for dynamic dictionary objects.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherman/ts-dict.git"
+  },
+  "author": "Dave Herman <dherman@mozilla.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dherman/ts-dict/issues"
+  },
+  "homepage": "https://github.com/dherman/ts-dict#readme",
+  "devDependencies": {
+    "typescript": "^2.2.2"
+  }
+}
